@@ -1,0 +1,19 @@
+{
+  "name": "chatbot_dianosaur",
+  "version": "1.0.0",
+  "description": "chatbot helping my life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beerAndNacho/standuplight.git"
+  },
+  "author": "joshkkh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beerAndNacho/standuplight/issues"
+  },
+  "homepage": "https://github.com/beerAndNacho/standuplight#readme"
+}
